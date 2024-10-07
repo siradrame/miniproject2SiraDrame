@@ -27,7 +27,7 @@ def plot_restaurant_distribution_by_state(df):
     # Ensure the charts directory exists
     os.makedirs('charts', exist_ok=True)
     plt.savefig('charts/restaurants_by_state.png')
-    plt.show()
+    plt.savefig('charts/restaurants_by_state.png')
 
 
 if __name__ == '__main__':
