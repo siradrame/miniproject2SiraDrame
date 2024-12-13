@@ -5,6 +5,8 @@
 
 # North American Restaurant Data Analysis
 
+link to dowload the ressources: https://www.kaggle.com/datasets/saketk511/1500-north-american-resturants
+
 ## Description
 
 This project analyzes restaurant data in North America, focusing on the types of cuisine available.
